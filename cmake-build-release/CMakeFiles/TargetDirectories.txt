@@ -1,0 +1,3 @@
+C:/Users/wondr/CLionProjects/Enigma/cmake-build-release/CMakeFiles/Enigma.dir
+C:/Users/wondr/CLionProjects/Enigma/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/wondr/CLionProjects/Enigma/cmake-build-release/CMakeFiles/rebuild_cache.dir
