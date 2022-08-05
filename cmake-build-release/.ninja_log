@@ -1,15 +1,3 @@
 # ninja log v5
-1	574	6812087851824610	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
-575	6815	6812087914219691	Enigma.exe	94cdaccfd26ce0b3
-1	756	6812089593654982	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
-757	6562	6812089651693428	Enigma.exe	94cdaccfd26ce0b3
-1	852	6812089794451888	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
-0	5485	6812090045166957	Enigma.exe	94cdaccfd26ce0b3
-0	893	6813250856187452	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
-894	1409	6813250861308390	Enigma.exe	94cdaccfd26ce0b3
-1	837	6813252852375013	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
-838	1284	6813252856839624	Enigma.exe	94cdaccfd26ce0b3
-0	842	6813254289517843	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
-842	1302	6813254294066920	Enigma.exe	94cdaccfd26ce0b3
 0	775	6813255985995494	CMakeFiles/Enigma.dir/main.cpp.obj	a59adbbe0b444e52
 776	1236	6813255990632000	Enigma.exe	94cdaccfd26ce0b3
